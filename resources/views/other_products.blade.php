@@ -183,7 +183,7 @@
 
                 <div class="col-md-9">
                     <div class="box">
-                        <h1>Other Products</h1>
+                        <h1>Other Products</>
                         <p>Other Products department we offer wide selection of the best products we have found and carefully selected worldwide.</p>
                     </div>
 
